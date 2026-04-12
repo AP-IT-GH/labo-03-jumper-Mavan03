@@ -1,0 +1,29 @@
+{
+    "JumperBrain": {
+        "checkpoints": [
+            {
+                "steps": 103141,
+                "file_path": "results\\Jumper_V1\\JumperBrain\\JumperBrain-103141.onnx",
+                "reward": 6.181999683380127,
+                "creation_time": 1774972168.73145,
+                "auxillary_file_paths": [
+                    "results\\Jumper_V1\\JumperBrain\\JumperBrain-103141.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 103141,
+            "file_path": "results\\Jumper_V1\\JumperBrain.onnx",
+            "reward": 6.181999683380127,
+            "creation_time": 1774972168.73145,
+            "auxillary_file_paths": [
+                "results\\Jumper_V1\\JumperBrain\\JumperBrain-103141.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
