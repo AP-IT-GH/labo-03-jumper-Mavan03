@@ -2,31 +2,31 @@
     "JumperBrain": {
         "checkpoints": [
             {
-                "steps": 499987,
-                "file_path": "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-499987.onnx",
-                "reward": null,
-                "creation_time": 1776027165.121489,
+                "steps": 499967,
+                "file_path": "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-499967.onnx",
+                "reward": 4.346332743763924,
+                "creation_time": 1776029013.1961722,
                 "auxillary_file_paths": [
-                    "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-499987.pt"
+                    "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-499967.pt"
                 ]
             },
             {
-                "steps": 500051,
-                "file_path": "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500051.onnx",
-                "reward": null,
-                "creation_time": 1776027165.1693544,
+                "steps": 500031,
+                "file_path": "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500031.onnx",
+                "reward": 4.346332743763924,
+                "creation_time": 1776029013.247244,
                 "auxillary_file_paths": [
-                    "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500051.pt"
+                    "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500031.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 500051,
+            "steps": 500031,
             "file_path": "results\\Jumper_Fase4\\JumperBrain.onnx",
-            "reward": null,
-            "creation_time": 1776027165.1693544,
+            "reward": 4.346332743763924,
+            "creation_time": 1776029013.247244,
             "auxillary_file_paths": [
-                "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500051.pt"
+                "results\\Jumper_Fase4\\JumperBrain\\JumperBrain-500031.pt"
             ]
         }
     },

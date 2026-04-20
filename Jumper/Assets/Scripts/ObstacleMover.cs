@@ -2,16 +2,20 @@ using UnityEngine;
 
 public class ObstacleMover : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 15f;
     public float lifetime = 10f;
+
+    private Rigidbody rb;
 
     void Start()
     {
+        rb = GetComponent<Rigidbody>();
         Destroy(gameObject, lifetime);
     }
 
-    void Update()
+    void FixedUpdate()
     {
-        transform.Translate(Vector3.forward * speed * Time.deltaTime);
+        Vector3 movement = transform.forward * speed * Time.fixedDeltaTime;
+        rb.MovePosition(rb.position + movement);
     }
 }

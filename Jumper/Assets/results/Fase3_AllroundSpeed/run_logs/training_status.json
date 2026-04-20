@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    },
+    "JumperBrain": {
+        "checkpoints": [
+            {
+                "steps": 499965,
+                "file_path": "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-499965.onnx",
+                "reward": null,
+                "creation_time": 1776696707.16,
+                "auxillary_file_paths": [
+                    "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-499965.pt"
+                ]
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-999999.onnx",
+                "reward": null,
+                "creation_time": 1776699361.183249,
+                "auxillary_file_paths": [
+                    "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-999999.pt"
+                ]
+            },
+            {
+                "steps": 1499960,
+                "file_path": "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-1499960.onnx",
+                "reward": null,
+                "creation_time": 1776701542.1174285,
+                "auxillary_file_paths": [
+                    "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-1499960.pt"
+                ]
+            },
+            {
+                "steps": 1500024,
+                "file_path": "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-1500024.onnx",
+                "reward": null,
+                "creation_time": 1776701542.1677797,
+                "auxillary_file_paths": [
+                    "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-1500024.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500024,
+            "file_path": "results\\Fase3_AllroundSpeed\\JumperBrain.onnx",
+            "reward": null,
+            "creation_time": 1776701542.1677797,
+            "auxillary_file_paths": [
+                "results\\Fase3_AllroundSpeed\\JumperBrain\\JumperBrain-1500024.pt"
+            ]
+        }
+    }
+}

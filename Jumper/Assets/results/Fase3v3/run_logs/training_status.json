@@ -1,0 +1,65 @@
+{
+    "JumperBrain": {
+        "checkpoints": [
+            {
+                "steps": 499967,
+                "file_path": "results\\Fase3v3\\JumperBrain\\JumperBrain-499967.onnx",
+                "reward": 13.10499881953001,
+                "creation_time": 1776544696.4772825,
+                "auxillary_file_paths": [
+                    "results\\Fase3v3\\JumperBrain\\JumperBrain-499967.pt"
+                ]
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\Fase3v3\\JumperBrain\\JumperBrain-999984.onnx",
+                "reward": 0.607499772682786,
+                "creation_time": 1776545976.610749,
+                "auxillary_file_paths": [
+                    "results\\Fase3v3\\JumperBrain\\JumperBrain-999984.pt"
+                ]
+            },
+            {
+                "steps": 1000048,
+                "file_path": "results\\Fase3v3\\JumperBrain\\JumperBrain-1000048.onnx",
+                "reward": 0.607499772682786,
+                "creation_time": 1776545976.6633222,
+                "auxillary_file_paths": [
+                    "results\\Fase3v3\\JumperBrain\\JumperBrain-1000048.pt"
+                ]
+            },
+            {
+                "steps": 1203901,
+                "file_path": "results\\Fase3v3\\JumperBrain\\JumperBrain-1203901.onnx",
+                "reward": 20.63333185017109,
+                "creation_time": 1776601229.9988816,
+                "auxillary_file_paths": [
+                    "results\\Fase3v3\\JumperBrain\\JumperBrain-1203901.pt"
+                ]
+            },
+            {
+                "steps": 1245695,
+                "file_path": "results\\Fase3v3\\JumperBrain\\JumperBrain-1245695.onnx",
+                "reward": null,
+                "creation_time": 1776602056.3554537,
+                "auxillary_file_paths": [
+                    "results\\Fase3v3\\JumperBrain\\JumperBrain-1245695.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1245695,
+            "file_path": "results\\Fase3v3\\JumperBrain.onnx",
+            "reward": null,
+            "creation_time": 1776602056.3554537,
+            "auxillary_file_paths": [
+                "results\\Fase3v3\\JumperBrain\\JumperBrain-1245695.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

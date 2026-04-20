@@ -1,0 +1,56 @@
+{
+    "JumperBrain": {
+        "checkpoints": [
+            {
+                "steps": 499961,
+                "file_path": "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-499961.onnx",
+                "reward": null,
+                "creation_time": 1776613417.7708564,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-499961.pt"
+                ]
+            },
+            {
+                "steps": 999982,
+                "file_path": "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-999982.onnx",
+                "reward": null,
+                "creation_time": 1776614321.950668,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-999982.pt"
+                ]
+            },
+            {
+                "steps": 1499985,
+                "file_path": "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-1499985.onnx",
+                "reward": null,
+                "creation_time": 1776615651.9348316,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-1499985.pt"
+                ]
+            },
+            {
+                "steps": 1500049,
+                "file_path": "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-1500049.onnx",
+                "reward": null,
+                "creation_time": 1776615651.9817667,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-1500049.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500049,
+            "file_path": "results\\Fase3v4Fintune\\JumperBrain.onnx",
+            "reward": null,
+            "creation_time": 1776615651.9817667,
+            "auxillary_file_paths": [
+                "results\\Fase3v4Fintune\\JumperBrain\\JumperBrain-1500049.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "JumperBrain": {
+        "checkpoints": [
+            {
+                "steps": 499938,
+                "file_path": "results\\Fase3v4\\JumperBrain\\JumperBrain-499938.onnx",
+                "reward": null,
+                "creation_time": 1776608027.1970046,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4\\JumperBrain\\JumperBrain-499938.pt"
+                ]
+            },
+            {
+                "steps": 999997,
+                "file_path": "results\\Fase3v4\\JumperBrain\\JumperBrain-999997.onnx",
+                "reward": null,
+                "creation_time": 1776609160.4141102,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4\\JumperBrain\\JumperBrain-999997.pt"
+                ]
+            },
+            {
+                "steps": 1499982,
+                "file_path": "results\\Fase3v4\\JumperBrain\\JumperBrain-1499982.onnx",
+                "reward": null,
+                "creation_time": 1776610038.1434221,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4\\JumperBrain\\JumperBrain-1499982.pt"
+                ]
+            },
+            {
+                "steps": 1500046,
+                "file_path": "results\\Fase3v4\\JumperBrain\\JumperBrain-1500046.onnx",
+                "reward": null,
+                "creation_time": 1776610038.18928,
+                "auxillary_file_paths": [
+                    "results\\Fase3v4\\JumperBrain\\JumperBrain-1500046.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500046,
+            "file_path": "results\\Fase3v4\\JumperBrain.onnx",
+            "reward": null,
+            "creation_time": 1776610038.18928,
+            "auxillary_file_paths": [
+                "results\\Fase3v4\\JumperBrain\\JumperBrain-1500046.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
